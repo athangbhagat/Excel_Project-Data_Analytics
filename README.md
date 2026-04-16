@@ -2,7 +2,7 @@
 
 ## Salary Dashboard
 This data jobs salary dashboard was created to help job seekers to investigate for their desired jobs and ensure that they are being adequately compensated.  
-[Checkout my work here](Project_1-Salary_Dashboard)  
+[Checkout my work here](Project_1-Salary_Dashboard.xlsx)  
 <img width="1835" height="713" alt="Screenshot 2026-04-16 114508" src="https://github.com/user-attachments/assets/fa40a4f0-d8da-4644-8d79-99aa9e0f967c" />
 
 ## Salary Analysis

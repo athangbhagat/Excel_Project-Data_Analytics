@@ -16,7 +16,7 @@ This project transforms raw salary data into clear, actionable insights through 
 
 With this dashboard, users can:  
 
--Analyze salary distributions  
+*Analyze salary distributions  
 -Compare departments and roles  
 -Identify trends and outliers  
 -Make data-driven decisions  

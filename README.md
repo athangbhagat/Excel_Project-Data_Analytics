@@ -1,7 +1,7 @@
 # Excel_Project-Data_Analytics
 
-📊##Salary Dashboard Project  
-🧾###Introduction  
+##📊Salary Dashboard Project  
+###🧾Introduction  
 
 In today’s data-driven world, understanding salary patterns is essential for making informed business and career decisions. This project presents a Salary Dashboard built in Microsoft Excel that transforms raw data into meaningful visual insights.
 
